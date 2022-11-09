@@ -1,0 +1,45 @@
+.box1{
+    background-color: aliceblue;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 2em 1em;
+}
+
+.box2{
+    background-color: peachpuff;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 2em 1em;
+}
+
+.box3{
+    background-color: lightgreen;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 2em 1em;
+}
+
+.box4{
+    background-color: plum;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 2em 1em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    margin: 1em;
+}
+
+.container{
+    display: flex;
+}
